@@ -37,7 +37,7 @@ def calcul_bmi(bmi):
 
 ############################################################ Affichage ############################################################
 
-st.title("Hello world")
+st.title("Estimation de la prime d'assurance")
 
 age = st.number_input("Age du client :", min_value=18)
 
