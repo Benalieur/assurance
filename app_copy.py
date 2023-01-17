@@ -5,7 +5,7 @@ import numpy as np
 from joblib import load
 
 
-model = load('models/Ridge_residus.pkl')
+model = load('models/Pipeline.pkl')
 
 ############################################################ Fonctions ############################################################
 
